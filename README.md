@@ -8,11 +8,12 @@ Download and extract bot ESP32OTAUpdater and ESPOTADASH to your arduino librarie
 
 ```cpp
 libraries
+│
 ├── ESP32OTAUpdater
-│   └── src
-│       ├── ESP32httpUpdate.cpp
-│       ├── ESP32httpUpdate.h
-│       └── library.properties
+│   ├── src
+│   │   ├── ESP32httpUpdate.cpp
+│   │   ├── ESP32httpUpdate.h
+│   ├── library.properties
 │
 └── ESPOTADASH
     ├── ESPOTADASH.cpp
